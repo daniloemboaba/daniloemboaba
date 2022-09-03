@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloemboaba&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Tecnologias que utilizo e estudo no meu dia
+## Tecnologias que utilizo e estudo no mue dia
 
 <div style="display: inline_block"><br/>
 	<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
