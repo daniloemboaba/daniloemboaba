@@ -7,7 +7,7 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 
 
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo Emboaba&show_icons=true&theme=merko)
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloemboaba&show_icons=true&theme=merko)
 
 
 ## Tecnologias que utilizo e estudo no mue dia
