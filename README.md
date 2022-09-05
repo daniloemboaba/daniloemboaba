@@ -1,11 +1,11 @@
-### Olá! Eu sou o Danilo Emboaba 🤙
+## Olá! Eu sou o Danilo Emboaba 🤙
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://daniloemboaba.github.io/site-danilo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloemboaba/)
 
 <div align="center">
   <a href="https://github.com/daniloemboaba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniloemboaba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloemboaba&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloemboaba&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Tecnologias que utilizo e estudo no meu dia
