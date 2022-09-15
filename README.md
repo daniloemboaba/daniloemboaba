@@ -4,8 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danilo_emboaba)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniloemboaba/)
 
-[![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloemboaba&show_icons=true&theme=dracula&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloemboaba&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daniloemboabav&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117" alt="Danilo Emboaba github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloemboaba&layout=compact&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d1117" />
+</div>
 
 
 ## Tecnologias que eu uso no meu dia
